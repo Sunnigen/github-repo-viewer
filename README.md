@@ -3,6 +3,8 @@
 ## 📌 Overview
 GitHub Repository Viewer is an Android app that fetches and displays a list of GitHub repositories using the GitHub API. Users can browse repositories sorted by newest or most popular and view details such as repository name, owner, stars, and programming language.
 
+![Demo](images/2025-03-06%2014.20.14.gif)
+
 ## 🎯 Features
 - Fetches repositories using **GitHub API**
 - Displays repositories in a **RecyclerView**
