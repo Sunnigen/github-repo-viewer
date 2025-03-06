@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GithubRepoViewer</string>
+    <string name="repo_avatar">repositry owner avatar</string>
+</resources>
